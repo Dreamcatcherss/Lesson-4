@@ -1,0 +1,7 @@
+D:\ReadyLessons\Lesson 4\Дополнительное задание\bin\Release\Дополнительное задание.exe.config
+D:\ReadyLessons\Lesson 4\Дополнительное задание\bin\Release\Дополнительное задание.exe
+D:\ReadyLessons\Lesson 4\Дополнительное задание\bin\Release\Дополнительное задание.pdb
+D:\ReadyLessons\Lesson 4\Дополнительное задание\obj\Release\Дополнительное задание.csprojAssemblyReference.cache
+D:\ReadyLessons\Lesson 4\Дополнительное задание\obj\Release\Дополнительное задание.csproj.CoreCompileInputs.cache
+D:\ReadyLessons\Lesson 4\Дополнительное задание\obj\Release\Дополнительное задание.exe
+D:\ReadyLessons\Lesson 4\Дополнительное задание\obj\Release\Дополнительное задание.pdb
